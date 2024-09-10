@@ -7,7 +7,7 @@
 - 🌱 Atualmente, estou aprendendo **HTML, CSS e JavaScript** para criar projetos web incríveis.
 - 📚 Amo estudar sobre **tecnologia**, **design** e tudo o que envolve inovação!
 - 🤔 Estou aberta a colaborar em projetos que me desafiem e me permitam crescer como desenvolvedora.
-- 📫 Como me encontrar: [marydevbr@exemplo.com](mailto:marydevbr@exemplo.com) 
+- 📫 Como me encontrar: [00001243183470sp@al.educacao.sp.gov.br](mailto:00001243183470sp@al.educacao.sp.gov.br) 
 
 ## 🌟 Linguagens e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
