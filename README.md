@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a MaryDevBr
 
-[![Banner](URL_DA_SUA_IMAGEM_DE_BANNER_AQUI)](LINK_PARA_ALGO_INTERESSANTE_OU_REDE_SOCIAL)
+[![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomF53p2JGkkagiw26minse0YBiWY_D5vZiA&s)](LINK_PARA_ALGO_INTERESSANTE_OU_REDE_SOCIAL)
 
 🎓 Sou uma estudante entusiasmada da **Alura Start**, explorando o maravilhoso mundo do desenvolvimento e da tecnologia! 🚀
 
